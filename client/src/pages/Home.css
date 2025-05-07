@@ -1,0 +1,14 @@
+*{
+    /* background-color: rgb(35, 85, 110); */
+    margin: 0;
+    padding: 0;
+}
+
+.careerImg{
+    position: absolute;
+    top: 10%;
+    right: 75%;
+    height: 30%;
+    width: 20%;
+    border-radius: 10%;
+}
